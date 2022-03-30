@@ -1,0 +1,15 @@
+C:\Users\pawel\Desktop\ZadanieClass\ZadanieClass\bin\Debug\net6.0\ZadanieClass.exe
+C:\Users\pawel\Desktop\ZadanieClass\ZadanieClass\bin\Debug\net6.0\ZadanieClass.deps.json
+C:\Users\pawel\Desktop\ZadanieClass\ZadanieClass\bin\Debug\net6.0\ZadanieClass.runtimeconfig.json
+C:\Users\pawel\Desktop\ZadanieClass\ZadanieClass\bin\Debug\net6.0\ZadanieClass.dll
+C:\Users\pawel\Desktop\ZadanieClass\ZadanieClass\bin\Debug\net6.0\ref\ZadanieClass.dll
+C:\Users\pawel\Desktop\ZadanieClass\ZadanieClass\bin\Debug\net6.0\ZadanieClass.pdb
+C:\Users\pawel\Desktop\ZadanieClass\ZadanieClass\obj\Debug\net6.0\ZadanieClass.csproj.AssemblyReference.cache
+C:\Users\pawel\Desktop\ZadanieClass\ZadanieClass\obj\Debug\net6.0\ZadanieClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pawel\Desktop\ZadanieClass\ZadanieClass\obj\Debug\net6.0\ZadanieClass.AssemblyInfoInputs.cache
+C:\Users\pawel\Desktop\ZadanieClass\ZadanieClass\obj\Debug\net6.0\ZadanieClass.AssemblyInfo.cs
+C:\Users\pawel\Desktop\ZadanieClass\ZadanieClass\obj\Debug\net6.0\ZadanieClass.csproj.CoreCompileInputs.cache
+C:\Users\pawel\Desktop\ZadanieClass\ZadanieClass\obj\Debug\net6.0\ZadanieClass.dll
+C:\Users\pawel\Desktop\ZadanieClass\ZadanieClass\obj\Debug\net6.0\ref\ZadanieClass.dll
+C:\Users\pawel\Desktop\ZadanieClass\ZadanieClass\obj\Debug\net6.0\ZadanieClass.pdb
+C:\Users\pawel\Desktop\ZadanieClass\ZadanieClass\obj\Debug\net6.0\ZadanieClass.genruntimeconfig.cache

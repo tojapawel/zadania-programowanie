@@ -1,0 +1,12 @@
+C:\Users\Pawel\Desktop\programowanie\semestr2\ConsoleApp9\AP.Logger\bin\Debug\net6.0\AP.Logger.deps.json
+C:\Users\Pawel\Desktop\programowanie\semestr2\ConsoleApp9\AP.Logger\bin\Debug\net6.0\AP.Logger.dll
+C:\Users\Pawel\Desktop\programowanie\semestr2\ConsoleApp9\AP.Logger\bin\Debug\net6.0\AP.Logger.pdb
+C:\Users\Pawel\Desktop\programowanie\semestr2\ConsoleApp9\AP.Logger\obj\Debug\net6.0\AP.Logger.csproj.AssemblyReference.cache
+C:\Users\Pawel\Desktop\programowanie\semestr2\ConsoleApp9\AP.Logger\obj\Debug\net6.0\AP.Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pawel\Desktop\programowanie\semestr2\ConsoleApp9\AP.Logger\obj\Debug\net6.0\AP.Logger.AssemblyInfoInputs.cache
+C:\Users\Pawel\Desktop\programowanie\semestr2\ConsoleApp9\AP.Logger\obj\Debug\net6.0\AP.Logger.AssemblyInfo.cs
+C:\Users\Pawel\Desktop\programowanie\semestr2\ConsoleApp9\AP.Logger\obj\Debug\net6.0\AP.Logger.csproj.CoreCompileInputs.cache
+C:\Users\Pawel\Desktop\programowanie\semestr2\ConsoleApp9\AP.Logger\obj\Debug\net6.0\AP.Logger.dll
+C:\Users\Pawel\Desktop\programowanie\semestr2\ConsoleApp9\AP.Logger\obj\Debug\net6.0\refint\AP.Logger.dll
+C:\Users\Pawel\Desktop\programowanie\semestr2\ConsoleApp9\AP.Logger\obj\Debug\net6.0\AP.Logger.pdb
+C:\Users\Pawel\Desktop\programowanie\semestr2\ConsoleApp9\AP.Logger\obj\Debug\net6.0\ref\AP.Logger.dll

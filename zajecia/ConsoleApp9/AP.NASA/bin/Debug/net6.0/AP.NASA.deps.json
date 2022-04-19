@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AP.NASA/1.0.0": {
+        "dependencies": {
+          "AP.Logger": "1.0.0"
+        },
+        "runtime": {
+          "AP.NASA.dll": {}
+        }
+      },
+      "AP.Logger/1.0.0": {
+        "runtime": {
+          "AP.Logger.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AP.NASA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AP.Logger/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

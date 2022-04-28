@@ -1,0 +1,15 @@
+C:\Users\Pawel\Desktop\Pawel Kozicki Kolokwium\Kozicki Pawel Kolokwium zad2\Kozicki Pawel Kolokwium zad2\bin\Debug\net6.0\Kozicki Pawel Kolokwium zad2.exe
+C:\Users\Pawel\Desktop\Pawel Kozicki Kolokwium\Kozicki Pawel Kolokwium zad2\Kozicki Pawel Kolokwium zad2\bin\Debug\net6.0\Kozicki Pawel Kolokwium zad2.deps.json
+C:\Users\Pawel\Desktop\Pawel Kozicki Kolokwium\Kozicki Pawel Kolokwium zad2\Kozicki Pawel Kolokwium zad2\bin\Debug\net6.0\Kozicki Pawel Kolokwium zad2.runtimeconfig.json
+C:\Users\Pawel\Desktop\Pawel Kozicki Kolokwium\Kozicki Pawel Kolokwium zad2\Kozicki Pawel Kolokwium zad2\bin\Debug\net6.0\Kozicki Pawel Kolokwium zad2.dll
+C:\Users\Pawel\Desktop\Pawel Kozicki Kolokwium\Kozicki Pawel Kolokwium zad2\Kozicki Pawel Kolokwium zad2\bin\Debug\net6.0\Kozicki Pawel Kolokwium zad2.pdb
+C:\Users\Pawel\Desktop\Pawel Kozicki Kolokwium\Kozicki Pawel Kolokwium zad2\Kozicki Pawel Kolokwium zad2\obj\Debug\net6.0\Kozicki Pawel Kolokwium zad2.csproj.AssemblyReference.cache
+C:\Users\Pawel\Desktop\Pawel Kozicki Kolokwium\Kozicki Pawel Kolokwium zad2\Kozicki Pawel Kolokwium zad2\obj\Debug\net6.0\Kozicki Pawel Kolokwium zad2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pawel\Desktop\Pawel Kozicki Kolokwium\Kozicki Pawel Kolokwium zad2\Kozicki Pawel Kolokwium zad2\obj\Debug\net6.0\Kozicki Pawel Kolokwium zad2.AssemblyInfoInputs.cache
+C:\Users\Pawel\Desktop\Pawel Kozicki Kolokwium\Kozicki Pawel Kolokwium zad2\Kozicki Pawel Kolokwium zad2\obj\Debug\net6.0\Kozicki Pawel Kolokwium zad2.AssemblyInfo.cs
+C:\Users\Pawel\Desktop\Pawel Kozicki Kolokwium\Kozicki Pawel Kolokwium zad2\Kozicki Pawel Kolokwium zad2\obj\Debug\net6.0\Kozicki Pawel Kolokwium zad2.csproj.CoreCompileInputs.cache
+C:\Users\Pawel\Desktop\Pawel Kozicki Kolokwium\Kozicki Pawel Kolokwium zad2\Kozicki Pawel Kolokwium zad2\obj\Debug\net6.0\Kozicki Pawel Kolokwium zad2.dll
+C:\Users\Pawel\Desktop\Pawel Kozicki Kolokwium\Kozicki Pawel Kolokwium zad2\Kozicki Pawel Kolokwium zad2\obj\Debug\net6.0\refint\Kozicki Pawel Kolokwium zad2.dll
+C:\Users\Pawel\Desktop\Pawel Kozicki Kolokwium\Kozicki Pawel Kolokwium zad2\Kozicki Pawel Kolokwium zad2\obj\Debug\net6.0\Kozicki Pawel Kolokwium zad2.pdb
+C:\Users\Pawel\Desktop\Pawel Kozicki Kolokwium\Kozicki Pawel Kolokwium zad2\Kozicki Pawel Kolokwium zad2\obj\Debug\net6.0\Kozicki Pawel Kolokwium zad2.genruntimeconfig.cache
+C:\Users\Pawel\Desktop\Pawel Kozicki Kolokwium\Kozicki Pawel Kolokwium zad2\Kozicki Pawel Kolokwium zad2\obj\Debug\net6.0\ref\Kozicki Pawel Kolokwium zad2.dll

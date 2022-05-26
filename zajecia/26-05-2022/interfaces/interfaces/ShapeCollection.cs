@@ -15,6 +15,6 @@ public class ShapeCollection : IEnumerable {
     }
 
     public IEnumerator GetEnumerator() {
-        return _shapes.GetEnumerator();
+        return new SomeClass(_shapes);
     }
 }

@@ -53,15 +53,22 @@ foreach (var item in shapes3Ds) {
     Show3D(item);
 }
 
-
-
 static void Show3D(IShape3D shape3d) {
     shape3d.Draw3D();
 }
 
 
+//wersja 1
 var container = new ShapeCollection();
-
 foreach (var item in container) {
     ((IShape)item).Draw();
 }
+
+//wersja 2
+var enumerator = container.GetEnumerator();
+while (enumerator.MoveNext()) { 
+    IShape currentShape = (IShape)enumerator.Current;
+    currentShape.Draw();
+}
+
+//wersja 1 i 2 dzialaja dokladnie tak samo

@@ -1,0 +1,15 @@
+C:\Users\Pawel\Documents\GitHub\zadania-programowanie\zajecia\26-05-2022\interfaces\interfaces\obj\Debug\net6.0\interfaces.csproj.AssemblyReference.cache
+C:\Users\Pawel\Documents\GitHub\zadania-programowanie\zajecia\26-05-2022\interfaces\interfaces\obj\Debug\net6.0\interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pawel\Documents\GitHub\zadania-programowanie\zajecia\26-05-2022\interfaces\interfaces\obj\Debug\net6.0\interfaces.AssemblyInfoInputs.cache
+C:\Users\Pawel\Documents\GitHub\zadania-programowanie\zajecia\26-05-2022\interfaces\interfaces\obj\Debug\net6.0\interfaces.AssemblyInfo.cs
+C:\Users\Pawel\Documents\GitHub\zadania-programowanie\zajecia\26-05-2022\interfaces\interfaces\obj\Debug\net6.0\interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Pawel\Documents\GitHub\zadania-programowanie\zajecia\26-05-2022\interfaces\interfaces\bin\Debug\net6.0\interfaces.exe
+C:\Users\Pawel\Documents\GitHub\zadania-programowanie\zajecia\26-05-2022\interfaces\interfaces\bin\Debug\net6.0\interfaces.deps.json
+C:\Users\Pawel\Documents\GitHub\zadania-programowanie\zajecia\26-05-2022\interfaces\interfaces\bin\Debug\net6.0\interfaces.runtimeconfig.json
+C:\Users\Pawel\Documents\GitHub\zadania-programowanie\zajecia\26-05-2022\interfaces\interfaces\bin\Debug\net6.0\interfaces.dll
+C:\Users\Pawel\Documents\GitHub\zadania-programowanie\zajecia\26-05-2022\interfaces\interfaces\bin\Debug\net6.0\interfaces.pdb
+C:\Users\Pawel\Documents\GitHub\zadania-programowanie\zajecia\26-05-2022\interfaces\interfaces\obj\Debug\net6.0\interfaces.dll
+C:\Users\Pawel\Documents\GitHub\zadania-programowanie\zajecia\26-05-2022\interfaces\interfaces\obj\Debug\net6.0\refint\interfaces.dll
+C:\Users\Pawel\Documents\GitHub\zadania-programowanie\zajecia\26-05-2022\interfaces\interfaces\obj\Debug\net6.0\interfaces.pdb
+C:\Users\Pawel\Documents\GitHub\zadania-programowanie\zajecia\26-05-2022\interfaces\interfaces\obj\Debug\net6.0\interfaces.genruntimeconfig.cache
+C:\Users\Pawel\Documents\GitHub\zadania-programowanie\zajecia\26-05-2022\interfaces\interfaces\obj\Debug\net6.0\ref\interfaces.dll

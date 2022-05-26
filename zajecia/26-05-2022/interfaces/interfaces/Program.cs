@@ -58,3 +58,10 @@ foreach (var item in shapes3Ds) {
 static void Show3D(IShape3D shape3d) {
     shape3d.Draw3D();
 }
+
+
+var container = new ShapeCollection();
+
+foreach (var item in container) {
+    ((IShape)item).Draw();
+}

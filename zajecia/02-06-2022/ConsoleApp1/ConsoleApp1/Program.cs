@@ -18,13 +18,18 @@ foreach (var item in customers) {
 }
 
 Console.WriteLine(new string('-', 30));
-
 Array.Sort(customers);
 
 foreach (var item in customers) {
     Console.WriteLine(item);
 }
 
+Console.WriteLine(new string('-', 30));
+Array.Sort(customers, new CustomerFirstNameComparer());
+
+foreach (var item in customers) {
+    Console.WriteLine(item);
+}
 
 //IEnum();
 static IEnumerable GetAllEmployeesDb() {

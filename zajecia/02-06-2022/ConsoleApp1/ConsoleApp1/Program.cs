@@ -1,17 +1,27 @@
 ﻿using System.Collections;
 
-var d1 = new Device(1, "Test", 69, new Battery(1, 100));
-var d2 = (Device)d1.Clone();
+Customer[] customers = new Customer[10] {
+    new Customer(1, "BTest", 25),
+    new Customer(2, "CTest", 10),
+    new Customer(3, "GTest", 32),
+    new Customer(4, "ZTest", 68),
+    new Customer(5, "RTest", 8),
+    new Customer(6, "ETest", 30),
+    new Customer(7, "UTest", 23),
+    new Customer(8, "ITest", 32),
+    new Customer(9, "KTest", 68),
+    new Customer(10, "FTest", 384)
+};
 
-Console.WriteLine(d1);
-Console.WriteLine(d2);
+foreach (var item in customers) {
+    Console.WriteLine(item);
+}
 
-d2.Name = "Nowy";
-d2.Battery.Power = 120;
+Array.Sort(customers);
 
-Console.WriteLine(d1);
-Console.WriteLine(d2);
-
+foreach (var item in customers) {
+    Console.WriteLine(item);
+}
 
 
 //IEnum();
@@ -44,4 +54,19 @@ static void Clone() {
     Console.WriteLine(p1);
     Console.WriteLine(p2);
     Console.ReadLine();
+}
+
+//AdvancedClone();
+static void AdvancedClone() {
+    var d1 = new Device(1, "Test", 69, new Battery(1, 100));
+    var d2 = (Device)d1.Clone();
+
+    Console.WriteLine(d1);
+    Console.WriteLine(d2);
+
+    d2.Name = "Nowy";
+    d2.Battery.Power = 120;
+
+    Console.WriteLine(d1);
+    Console.WriteLine(d2);
 }

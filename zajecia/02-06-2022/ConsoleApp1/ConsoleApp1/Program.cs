@@ -12,6 +12,13 @@ Customer[] customers = new Customer[10] {
     new Customer(9, "KTest", 68),
     new Customer(10, "FTest", 384)
 };
+foreach (var item in customers) {
+    Console.WriteLine(item);
+}
+
+Console.WriteLine(new string('-', 30));
+
+Array.Sort(customers, new CustomerIDComparer());
 
 foreach (var item in customers) {
     Console.WriteLine(item);

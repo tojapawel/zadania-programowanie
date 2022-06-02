@@ -13,9 +13,9 @@
         if (obj is Customer customer) {
             if (Age > customer.Age) {
                 return 1;
-            }else if(Age == customer.Age){
-                return -1;
-            }else{
+            } else if (Age == customer.Age){
+                return 0;
+            } else {
                 return -1;
             }
         } else {

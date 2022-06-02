@@ -17,6 +17,8 @@ foreach (var item in customers) {
     Console.WriteLine(item);
 }
 
+Console.WriteLine(new string('-', 30));
+
 Array.Sort(customers);
 
 foreach (var item in customers) {

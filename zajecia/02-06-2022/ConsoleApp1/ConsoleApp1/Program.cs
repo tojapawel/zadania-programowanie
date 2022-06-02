@@ -1,18 +1,13 @@
 ﻿using System.Collections;
 
-var p1 = new Point(5, 10);
-var p2 = (Point)p1.Clone();
+var d1 = new Device(1, "Test", 69, new Battery(1, 100));
+var d2 = (Device)d1.Clone();
 
-Console.WriteLine(p1);
-Console.WriteLine(p2);
-p2.X = 25;
-Console.WriteLine(p1);
-Console.WriteLine(p2);
-Console.ReadLine();
-
-
-
-
+Console.WriteLine(d1);
+Console.WriteLine(d2);
+d2.Name = "Nowy";
+Console.WriteLine(d1);
+Console.WriteLine(d2);
 
 
 
@@ -33,4 +28,17 @@ static void IEnum() {
             break;
         }
     }
+}
+
+//Clone();
+static void Clone() {
+    var p1 = new Point(5, 10);
+    var p2 = (Point)p1.Clone();
+
+    Console.WriteLine(p1);
+    Console.WriteLine(p2);
+    p2.X = 25;
+    Console.WriteLine(p1);
+    Console.WriteLine(p2);
+    Console.ReadLine();
 }

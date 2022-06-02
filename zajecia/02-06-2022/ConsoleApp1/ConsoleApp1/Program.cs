@@ -5,7 +5,10 @@ var d2 = (Device)d1.Clone();
 
 Console.WriteLine(d1);
 Console.WriteLine(d2);
+
 d2.Name = "Nowy";
+d2.Battery.Power = 120;
+
 Console.WriteLine(d1);
 Console.WriteLine(d2);
 

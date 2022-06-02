@@ -12,7 +12,9 @@
     public Battery Battery { get; set; }
 
     public object Clone() {
-        return this.MemberwiseClone();
+        var result = (Device)this.MemberwiseClone();
+        result.Battery = new Battery(Battery.ID, Battery.Power);
+        return result;
     }
 
     public override string ToString() {

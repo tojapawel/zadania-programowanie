@@ -1,42 +1,6 @@
 ﻿using System.Collections;
 
-Customer[] customers = new Customer[10] {
-    new Customer(1, "BTest", 25),
-    new Customer(2, "CTest", 10),
-    new Customer(3, "GTest", 32),
-    new Customer(4, "ZTest", 68),
-    new Customer(5, "RTest", 8),
-    new Customer(6, "ETest", 30),
-    new Customer(7, "UTest", 23),
-    new Customer(8, "ITest", 32),
-    new Customer(9, "KTest", 68),
-    new Customer(10, "FTest", 384)
-};
-foreach (var item in customers) {
-    Console.WriteLine(item);
-}
 
-Console.WriteLine(new string('-', 30));
-
-Array.Sort(customers, new CustomerIDComparer());
-
-foreach (var item in customers) {
-    Console.WriteLine(item);
-}
-
-Console.WriteLine(new string('-', 30));
-Array.Sort(customers);
-
-foreach (var item in customers) {
-    Console.WriteLine(item);
-}
-
-Console.WriteLine(new string('-', 30));
-Array.Sort(customers, new CustomerFirstNameComparer());
-
-foreach (var item in customers) {
-    Console.WriteLine(item);
-}
 
 //IEnum();
 static IEnumerable GetAllEmployeesDb() {
@@ -57,6 +21,7 @@ static void IEnum() {
     }
 }
 
+
 //Clone();
 static void Clone() {
     var p1 = new Point(5, 10);
@@ -69,6 +34,7 @@ static void Clone() {
     Console.WriteLine(p2);
     Console.ReadLine();
 }
+
 
 //AdvancedClone();
 static void AdvancedClone() {
@@ -83,4 +49,46 @@ static void AdvancedClone() {
 
     Console.WriteLine(d1);
     Console.WriteLine(d2);
+}
+
+
+//SortAndCompare();
+static void SortAndCompare() {
+    Customer[] customers = new Customer[10] {
+    new Customer(1, "BTest", 25),
+    new Customer(2, "CTest", 10),
+    new Customer(3, "GTest", 32),
+    new Customer(4, "ZTest", 68),
+    new Customer(5, "RTest", 8),
+    new Customer(6, "ETest", 30),
+    new Customer(7, "UTest", 23),
+    new Customer(8, "ITest", 32),
+    new Customer(9, "KTest", 68),
+    new Customer(10, "FTest", 384)
+};
+    foreach (var item in customers) {
+        Console.WriteLine(item);
+    }
+
+    Console.WriteLine(new string('-', 30));
+
+    Array.Sort(customers, new CustomerIDComparer());
+
+    foreach (var item in customers) {
+        Console.WriteLine(item);
+    }
+
+    Console.WriteLine(new string('-', 30));
+    Array.Sort(customers);
+
+    foreach (var item in customers) {
+        Console.WriteLine(item);
+    }
+
+    Console.WriteLine(new string('-', 30));
+    Array.Sort(customers, new CustomerFirstNameComparer());
+
+    foreach (var item in customers) {
+        Console.WriteLine(item);
+    }
 }
